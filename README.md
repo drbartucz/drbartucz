@@ -2,6 +2,7 @@
 <h3 align="center">A Teaching Specialist and PhD Candidate at the University of Minnesota</h3>
 
 - 🔭 I’m currently working on [my dissertation!](https://github.com/drbartucz/dissertation)
+   - Yes, I realize my username is currently not accurate, but I chose it to commit and stay motivated during the many ups and downs of a PhD
 
 - 🌱 I’m currently learning **Django**
 
